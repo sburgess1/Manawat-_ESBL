@@ -1,0 +1,83 @@
+EnvIsolateID,EnvSampleID,StreetAddress,DateCollected,SampleType,bact_genus,bact_species,culture_method,Cefotaxime,Ceftazidime,Trimethoprim_sulfamethoxazole,Gentamicin,Tetracycline,Ciprofloxacin,Nitrofurantoin,Streptomycin,Cefoxitin,Chloramphenicol,Site
+SB0260d,SB0260,Napier Road,19-Aug-19,Water,Escherichia,coli,MCAZ,0,0,0,0,0,1,0,0,0,0,A
+SB0264e,SB0264,Tip Rd,19-Aug-19,Water,Escherichia,coli,MCTX,0,0,1,0,1,0,0,1,1,0,F
+SB0264f,SB0264,Tip Rd,19-Aug-19,Water,Escherichia,coli,MCTX,0,0,1,0,0,0,0,1,1,0,F
+SB0267h1,SB0267,Napier Road,23-Sep-19,Water,Escherichia,coli,CHRO,1,0,0,1,0,1,0,0,0,0,A
+SB0267h2,SB0267,Napier Road,23-Sep-19,Water,Escherichia,coli,CHRO,1,0,0,0,0,1,0,0,0,0,A
+SB0273h2,SB0273,Tip Rd,23-Sep-19,Water,Escherichia,coli,CHRO,1,0,0,1,0,1,0,0,0,0,F
+SB0276h2,SB0276,Tip Rd,23-Sep-19,Treated effluent,Escherichia,coli,CHRO,1,1,1,1,1,1,0,1,0,0,E
+SB0283c,SB0283,Centennial Drive,17-Nov-19,Storm Water,Escherichia,coli,MCAZ,1,1,0,0,0,0,0,0,0,0,C
+SB0286c,SB0286,Tip Rd,17-Nov-19,Sediment,Escherichia,coli,MCAZ,1,1,0,0,0,0,0,1,1,0,F
+SB0295d,SB0295,Tip Rd,16-Dec-19,Water,Escherichia,coli,MCAZ,1,1,0,0,0,1,0,0,0,0,F
+SB0296c,SB0296,Tip Rd,16-Dec-19,Water,Escherichia,coli,MCAZ,1,1,0,0,1,0,0,0,1,0,F
+SB0296e,SB0296,Tip Rd,16-Dec-19,Water,Escherichia,coli,MCTX,1,1,1,0,1,0,0,0,1,0,F
+SB0298h1,SB0298,Tip Rd,16-Dec-19,Treated effluent,Escherichia,coli,CHRO,1,0,0,0,1,1,0,1,0,1,E
+SB0308e,SB0308,Tip Rd,13-Jan-20,Water,Escherichia,coli,MCTX,1,0,1,1,1,0,0,1,0,0,F
+SB0318c,SB0318,Centennial Drive,9-Feb-20,Water,Escherichia,coli,MCAZ,1,1,1,0,0,1,0,0,0,0,B
+SB0318d,SB0318,Centennial Drive,9-Feb-20,Water,Escherichia,coli,MCAZ,1,1,1,0,0,1,0,1,0,0,B
+SB0337h1a,SB0337,Tip Rd,8-Mar-20,Water,Escherichia,coli,CHRO,1,0,1,0,1,1,0,1,0,0,F
+SB0338c1,SB0338,Tip Rd,8-Mar-20,Water,Escherichia,coli,MCAZ,1,1,0,0,0,0,0,0,0,0,F
+SB0338d1,SB0338,Tip Rd,8-Mar-20,Water,Escherichia,coli,MCAZ,1,1,1,1,1,1,0,1,0,0,F
+SB0338e1,SB0338,Tip Rd,8-Mar-20,Water,Escherichia,coli,MCTX,1,0,0,0,0,0,0,0,0,0,F
+SB0338h1b,SB0338,Tip Rd,8-Mar-20,Water,Escherichia,coli,CHRO,1,0,1,0,1,1,0,1,0,0,F
+SB0347c1,SB0347,Centennial Drive,19-Jul-20,Storm Water,Escherichia,coli,MCAZ,1,1,0,1,0,1,0,0,0,0,C
+SB0351c2,SB0351,Tip Rd,19-Jul-20,Water,Escherichia,coli,MCAZ,1,0,1,0,1,0,0,1,0,0,F
+SB0351d2,SB0351,Tip Rd,19-Jul-20,Water,Escherichia,coli,MCAZ,1,1,1,0,1,0,0,1,0,0,F
+SB0352d2,SB0352,Tip Rd,19-Jul-20,Water,Escherichia,coli,MCAZ,1,1,1,0,1,0,0,1,0,0,F
+SB0352f2,SB0352,Tip Rd,19-Jul-20,Water,Escherichia,coli,MCTX,1,0,1,0,1,0,0,1,0,0,F
+SB0354c1,SB0354,Tip Rd,19-Jul-20,Treated effluent,Escherichia,coli,MCAZ,1,1,0,0,0,0,0,0,1,0,E
+SB0354c2,SB0354,Tip Rd,19-Jul-20,Treated effluent,Escherichia,coli,MCAZ,1,0,1,0,0,1,0,0,0,0,E
+SB0354e2,SB0354,Tip Rd,19-Jul-20,Treated effluent,Escherichia,coli,MCTX,1,0,0,0,0,0,0,0,0,0,E
+SB0354h4,SB0354,Tip Rd,19-Jul-20,Treated effluent,Escherichia,coli,CHRO,1,0,0,0,1,1,0,0,0,0,E
+SB0364c1,SB0364,Tip Rd,17-Aug-20,Water,Escherichia,coli,MCAZ,1,0,1,0,0,0,0,0,0,0,F
+SB0364d1,SB0364,Tip Rd,17-Aug-20,Water,Escherichia,coli,MCAZ,1,0,0,0,0,0,0,0,0,0,F
+SB0365c2,SB0365,Tip Rd,17-Aug-20,Water,Escherichia,coli,MCAZ,1,1,0,0,0,1,0,0,0,0,F
+SB0365h2a,SB0365,Tip Rd,17-Aug-20,Water,Escherichia,coli,CHRO,1,1,0,0,0,0,0,0,0,0,F
+SB0370 f1,SB0370,Napier Road,14-Sep-20,Sediment,Escherichia,coli,MCTX,0,1,0,0,0,0,0,0,1,0,A
+SB0370c1,SB0370,Napier Road,14-Sep-20,Sediment,Escherichia,coli,MCAZ,1,1,0,0,0,0,0,0,1,0,A
+SB0370e1,SB0370,Napier Road,14-Sep-20,Sediment,Escherichia,coli,MCTX,0,0,0,0,0,0,0,0,1,0,A
+SB0377c2,SB0377,Tip Rd,14-Sep-20,Water,Escherichia,coli,MCAZ,1,1,1,0,1,1,0,1,0,1,F
+SB0380f2,SB0380,Tip Rd,14-Sep-20,Treated effluent,Escherichia,coli,MCTX,1,1,0,0,0,0,0,0,1,0,E
+SB0380h2a,SB0380,Tip Rd,14-Sep-20,Treated effluent,Escherichia,coli,CHRO,1,1,1,1,0,0,0,0,0,0,E
+SB0380h2b,SB0380,Tip Rd,14-Sep-20,Treated effluent,Escherichia,coli,CHRO,1,1,1,1,0,1,1,1,1,0,E
+SB0390h1a,SB0390,Tip Rd,12-Oct-20,Water,Escherichia,coli,CHRO,1,1,0,0,0,0,0,0,0,0,F
+SB0391c1,SB0391,Tip Rd,12-Oct-20,Water,Escherichia,coli,MCAZ,0,0,0,0,0,1,0,0,0,0,F
+SB0391e2,SB0391,Tip Rd,12-Oct-20,Water,Escherichia,coli,MCTX,1,1,0,0,0,0,0,0,1,0,F
+SB0391f1,SB0391,Tip Rd,12-Oct-20,Water,Escherichia,coli,MCTX,1,0,0,0,0,0,0,0,0,0,F
+SB0391f2,SB0391,Tip Rd,12-Oct-20,Water,Escherichia,coli,MCTX,1,1,0,0,0,0,0,0,1,0,F
+SB0391h1a,SB0391,Tip Rd,12-Oct-20,Water,Escherichia,coli,CHRO,1,0,0,0,0,0,0,0,0,0,F
+SB0391h2b,SB0391,Tip Rd,12-Oct-20,Water,Escherichia,coli,CHRO,1,1,0,0,0,1,0,0,0,0,F
+SB0393b2,SB0393,Tip Rd,12-Oct-20,Treated effluent,Escherichia,coli,MCC,0,0,0,0,0,0,0,0,1,0,E
+SB0393h1,SB0393,Tip Rd,12-Oct-20,Treated effluent,Escherichia,coli,CHRO,1,1,0,0,0,0,1,0,0,0,E
+SB0393h2b,SB0393,Tip Rd,12-Oct-20,Treated effluent,Escherichia,coli,CHRO,1,1,0,0,1,1,0,0,1,1,E
+SB0393h2c,SB0393,Tip Rd,12-Oct-20,Treated effluent,Escherichia,coli,CHRO,1,0,0,0,1,1,0,0,0,1,E
+SB0399b1,SB0399,Centennial Drive,4-Nov-20,Sediment,Escherichia,coli,MCC,0,0,0,0,0,0,0,0,0,1,B
+SB0399c1,SB0399,Centennial Drive,4-Nov-20,Sediment,Escherichia,coli,MCAZ,1,1,0,0,0,0,0,0,1,0,B
+SB0400a1,SB0400,Centennial Drive,4-Nov-20,Storm Water,Escherichia,coli,MCC,0,0,0,0,0,0,1,0,0,0,C
+SB0404c2,SB0404,Tip Rd,4-Nov-20,Water,Escherichia,coli,MCAZ,1,0,1,0,1,0,0,1,0,0,F
+SB0404d2,SB0404,Tip Rd,4-Nov-20,Water,Escherichia,coli,MCAZ,0,1,1,0,1,0,0,1,1,0,F
+SB0404h1a,SB0404,Tip Rd,4-Nov-20,Water,Escherichia,coli,CHRO,1,1,1,0,0,1,0,1,0,0,F
+SB0404h2a,SB0404,Tip Rd,4-Nov-20,Water,Escherichia,coli,CHRO,1,0,1,0,1,1,0,1,0,0,F
+SB0405c2,SB0405,Tip Rd,4-Nov-20,Water,Escherichia,coli,MCAZ,0,1,1,0,0,0,0,1,1,0,F
+SB0405h1a,SB0405,Tip Rd,4-Nov-20,Water,Escherichia,coli,CHRO,1,1,1,1,1,0,0,1,0,0,F
+SB0405h1b,SB0405,Tip Rd,4-Nov-20,Water,Escherichia,coli,CHRO,1,1,0,0,0,1,0,0,0,0,F
+SB0405h2a,SB0405,Tip Rd,4-Nov-20,Water,Escherichia,coli,CHRO,1,1,0,0,0,0,0,0,0,0,F
+SB0405h2b,SB0405,Tip Rd,4-Nov-20,Water,Escherichia,coli,CHRO,1,0,0,0,0,0,0,0,0,0,F
+SB0406c1,SB0406,Tip Rd,4-Nov-20,Treated effluent,Escherichia,coli,MCAZ,0,0,0,0,0,1,0,0,1,0,E
+SB0406c2,SB0406,Tip Rd,4-Nov-20,Treated effluent,Escherichia,coli,MCAZ,0,0,1,0,1,0,0,1,1,0,E
+SB0406d1,SB0406,Tip Rd,4-Nov-20,Treated effluent,Escherichia,coli,MCAZ,0,0,0,0,0,0,0,0,1,0,E
+SB0406h1,SB0406,Tip Rd,4-Nov-20,Treated effluent,Escherichia,coli,CHRO,1,1,0,0,0,0,1,0,0,0,E
+SB0406h1a,SB0406,Tip Rd,4-Nov-20,Treated effluent,Escherichia,coli,CHRO,1,1,0,0,0,0,0,0,0,0,E
+SB0406h3,SB0406,Tip Rd,4-Nov-20,Treated effluent,Escherichia,coli,CHRO,1,0,0,0,0,1,0,0,0,0,E
+SB0409a1,SB0409,Napier Road,2-Dec-20,Sediment,Escherichia,coli,MCC,0,0,0,0,1,0,0,0,0,0,A
+SB0409c1,SB0409,Napier Road,2-Dec-20,Sediment,Escherichia,coli,MCAZ,0,0,1,0,0,0,0,0,1,0,A
+SB0410b1,SB0410,Centennial Drive,2-Dec-20,Water,Escherichia,coli,MCC,0,0,0,0,1,0,0,0,0,0,B
+SB0412e1,SB0412,Centennial Drive,2-Dec-20,Storm Water,Escherichia,coli,MCTX,1,0,0,0,1,0,0,1,0,0,C
+SB0412h1a,SB0412,Centennial Drive,2-Dec-20,Storm Water,Escherichia,coli,CHRO,0,0,0,0,1,0,0,1,0,0,C
+SB0421h1a,SB0421,Tip Rd,2-Dec-20,Treated effluent,Escherichia,coli,CHRO,1,1,0,0,0,0,0,0,0,0,E
+SB0427d1,SB0427,Centennial Drive,14-Jan-21,Sediment,Escherichia,coli,MCAZ,0,0,0,0,0,1,0,0,1,0,B
+SB0432c1,SB0432,Tip Rd,14-Jan-21,Water,Escherichia,coli,MCAZ,1,1,0,0,0,0,0,0,1,0,F
+SB0432h1a,SB0432,Tip Rd,14-Jan-21,Water,Escherichia,coli,CHRO,1,0,0,0,1,0,0,0,0,0,F
+SB0432h2a,SB0432,Tip Rd,14-Jan-21,Water,Escherichia,coli,CHRO,1,1,0,0,0,0,0,1,1,0,F
+SB0433f2,SB0433,Tip Rd,14-Jan-21,Sediment,Escherichia,coli,MCTX,1,0,0,0,1,1,0,0,0,0,F
+SB0433h1a,SB0433,Tip Rd,14-Jan-21,Sediment,Escherichia,coli,CHRO,1,1,1,0,0,1,0,0,0,0,F
